@@ -1,6 +1,0 @@
-voila
-voila-material
-pandas
-numpy
-matplotlib
-folium
