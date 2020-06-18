@@ -3,5 +3,4 @@ voila-material
 pandas
 numpy
 matplotlib
-pyplot
 folium
